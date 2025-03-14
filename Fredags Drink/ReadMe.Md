@@ -24,6 +24,8 @@
 * [Lynchburg Lemonade](#lynchburg_lemonade)
 * [Army & Navy](#armynavy)
 * [Danish Sour](#danish_sour)
+* [Gin Sour](#gin_sour)
+
 
 ---
 <a name="bees_knees"></a>
@@ -313,3 +315,17 @@ Glas : Cocktailglas (eller Highball glas med is)
 |Ägg vita|2 cl||
 
 Skakas med is, silas av direkt i glas och ganeras med grapefruit skal (riven eller strimmlad). 
+
+<a name="gin_sour"></a>
+## Gin Sour 
+Glas : Cocktailglas (eller Highball glas med is) 
+
+|Type|mängd|info|
+|----|-----|----|
+|Gin |6 cl|Helst dry gin|
+|Citronjuice|3 cl||
+|Simple Syrup|2 cl||
+|Ägg vita|2 cl||
+|Angostura Bitter | 2 skvättar | valfritt, färgar drinken ||
+
+Skakas med is, silas av direkt i glas och ganeras med citronskal (riven eller strimmlad). 
