@@ -25,6 +25,7 @@
 * [Army & Navy](#armynavy)
 * [Danish Sour](#danish_sour)
 * [Gin Sour](#gin_sour)
+* [Gyll-ene Tider](#gyll)
 
 
 ---
@@ -329,3 +330,16 @@ Glas : Cocktailglas (eller Highball glas med is)
 |Angostura Bitter | 2 skvättar | valfritt, färgar drinken ||
 
 Skakas med is, silas av direkt i glas och ganeras med citronskal (riven eller strimmlad). 
+
+<a name="gyll"></a>
+## Gyll-ene Tider (aka Hamlet was right II)
+Glas : Cocktailglas
+
+|Type|mängd|info|
+|----|-----|----|
+|Gammel Dansk|3 cl||
+|Cointreau|1.5 cl||
+|limejuice|1.5 cl||
+|sockerlag (1:1)|1 cl||
+
+Skakas med is, sila upp i ett kylt cocktailglas och garnera med en limeskiva på kanten.
