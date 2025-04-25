@@ -27,4 +27,4 @@ Glas : Snappsglas (eller provrör)
 |----|-----|----|
 |Fireball Cinnamon Whisky|2 cl||
 |Citronjuice|2 cl||
-|Cayennepeppar||Tuntlager på toppen|
+|Cayennepeppar||Tunt lager på toppen|
