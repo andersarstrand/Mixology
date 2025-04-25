@@ -20,7 +20,7 @@ Glas : Snappsglas (eller liten kaffekopp)
 |Peppar Vodka|4 cl||
 |BOB Jordgubssaft (Koncentrat)|1cl||
 
-### Pan Galactic Gargle Blaster by YelloPig
+### Pan Galactic Gargle Blaster by Yellow Pig
 Glas : Snappsglas (eller provrör)
 
 |Type|mängd|info|
