@@ -20,6 +20,7 @@
 * [Santa's Knee](#santas_knees)
 * [Yellowjacket](#wasp)
 * [White Wasp](#white_wasp)
+* [ Green Beetle](#green_eetle)
 * [Tennessee Wasp](#tennessee_wasp)
 * [Lynchburg Lemonade](#lynchburg_lemonade)
 * [Army & Navy](#armynavy)
@@ -274,6 +275,18 @@ Glas : Cocktailglas eller litem tumlare.
 
 Skakas med is och serverar i två mindre glas. 
 
+
+<a name="green_beetle"></a>
+## Green Beetle x2
+Glas : Cocktailglas eller litem tumlare.
+
+|Type|mängd|info|
+|----|-----|----|
+|Agave Sirap|2 cl||
+|Citron Juice|3 cl||
+|cognac grönstedts VS|8 cl||
+
+Skakas med is och serverar i två mindre glas.  
 
 <a name="lynchburg_lemonade"></a>
 ## Lynchburg Lemonade
