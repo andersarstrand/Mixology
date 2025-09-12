@@ -27,6 +27,7 @@
 * [Danish Sour](#danish_sour)
 * [Gin Sour](#gin_sour)
 * [Gyll-ene Tider](#gyll)
+* [Trappstege](#trappstege)
 
 
 ---
@@ -356,3 +357,16 @@ Glas : Cocktailglas
 |sockerlag (1:1)|1 cl||
 
 Skakas med is, sila upp i ett kylt cocktailglas och garnera med en limeskiva på kanten.
+
+<a name="trappstege"></a>
+## Trappstege
+Glas : Cocktailglas
+
+|Type|mängd|info|
+|----|-----|----|
+|Limejuice|1 cl||
+|Ananasjuice|2 cl||
+|Apelsinjuice|3 cl||
+|Rom|4 cl||
+
+Blandas i glaset och rör om med is.
