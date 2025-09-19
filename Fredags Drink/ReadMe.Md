@@ -376,7 +376,7 @@ Blandas i glaset och rör om med is.
 Glas : Tjockväggat glas eller mugg
 |Type|mängd|info|
 |----|-----|----|
-|Whisy (ej rökig)|5 cl||
+|Whisky (ej rökig)|5 cl||
 |Citronjuice|1 tsk||
 |Honung (flytande eller fast)|½ msk||
 |Kokhett vatten|1 dl||
