@@ -28,7 +28,7 @@
 * [Gin Sour](#gin_sour)
 * [Gyll-ene Tider](#gyll)
 * [Trappstege](#trappstege)
-* [Varm Whisky](#varm_whisky)
+* [Varm Whisky](#varm-whisky)
 
 ---
 <a name="bees_knees"></a>
@@ -371,7 +371,7 @@ Glas : Cocktailglas
 
 Blandas i glaset och rör om med is.
 
-<a name="warm_whisky"></a>
+<a name="warm-whisky"></a>
 ## Varm whisky 
 Glas : Tjockväggat glas eller mugg
 |Type|mängd|info|
