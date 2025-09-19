@@ -28,7 +28,7 @@
 * [Gin Sour](#gin_sour)
 * [Gyll-ene Tider](#gyll)
 * [Trappstege](#trappstege)
-
+* [Varm Whisky](#varm_whisky)
 
 ---
 <a name="bees_knees"></a>
@@ -370,3 +370,20 @@ Glas : Cocktailglas
 |Rom|4 cl||
 
 Blandas i glaset och rör om med is.
+
+<a name="warm_whisky"></a>
+## Varm whisky 
+Glas : Tjockväggat glas eller mugg
+|Type|mängd|info|
+|----|-----|----|
+|Whisy (ej rökig)|5 cl||
+|Citronjuice|1 tsk||
+|Honung (flytande eller fast)|½ msk||
+|Kokhett vatten|1 dl||
+|Hela nejlikor (traditionellt)|6 st (eller fler)||
+|Alternativ byt ut nejlikorna till stjärnanis |1 - 2 st ||
+
+Blanda kryddorna med whiskyn, citron och honung.  
+Låt gärna allt dra i ett par minuter.  
+Tillsätt kokande vatten. Rör om och njut. 
+(Krydorna kan ligga kvar eller tas ur vid servering.)
