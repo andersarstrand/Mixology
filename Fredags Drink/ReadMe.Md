@@ -24,6 +24,7 @@
 * [Tennessee Wasp](#tennessee_wasp)
 * [Lynchburg Lemonade](#lynchburg_lemonade)
 * [Army & Navy](#armynavy)
+* [Burbon Sour](#burbon-sour)
 * [Danish Sour](#danish_sour)
 * [Gin Sour](#gin_sour)
 * [Gyll-ene Tider](#gyll)
@@ -316,6 +317,19 @@ Glas : Cocktailglas
 
 Skakas med is och serveras
 
+<a name="burbon-sour"></a>
+## Burbon Sour
+Glas : Cocktailglas (eller Highball glas med is) 
+
+|Type|mängd|info|
+|----|-----|----|
+|Whiskey  (bourbon)|5 cl||
+|Citronsaft|3 cl||
+|Simple Syrup|2 cl||
+|Ägg vita|2 cl|Äggvitan från ett ägg|
+|Angostura Bitter | 2 skvättar | valfritt, färgar drinken ||
+
+Skakas med is, silas av direkt i glas och ganeras med ciutron skal (riven eller strimmlad). 
 
 <a name="danish_sour"></a>
 ## Danish Sour (aka Hamlet was right)
