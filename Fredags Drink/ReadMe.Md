@@ -326,7 +326,7 @@ Glas : Cocktailglas (eller Highball glas med is)
 |Whiskey  (bourbon)|5 cl||
 |Citronsaft|3 cl||
 |Simple Syrup|2 cl||
-|Ägg vita|2 cl|Äggvitan från ett ägg|
+|Äggvita|2 cl|Äggvitan från ett ägg|
 |Angostura Bitter | 2 skvättar | valfritt, färgar drinken ||
 
 Skakas med is, silas av direkt i glas och ganeras med ciutron skal (riven eller strimmlad). 
@@ -341,7 +341,7 @@ Glas : Cocktailglas (eller Highball glas med is)
 |Whiskey|3 cl|Jack Daniel's eller liknande|
 |Grapefruitjuice|3 cl||
 |Simple Syrup|2 cl||
-|Ägg vita|2 cl||
+|Äggvita|2 cl||
 
 Skakas med is, silas av direkt i glas och ganeras med grapefruit skal (riven eller strimmlad). 
 
@@ -354,7 +354,7 @@ Glas : Cocktailglas (eller Highball glas med is)
 |Gin |6 cl|Helst dry gin|
 |Citronjuice|3 cl||
 |Simple Syrup|2 cl||
-|Ägg vita|2 cl||
+|Äggvita|2 cl||
 |Angostura Bitter | 2 skvättar | valfritt, färgar drinken ||
 
 Skakas med is, silas av direkt i glas och ganeras med citronskal (riven eller strimmlad). 
