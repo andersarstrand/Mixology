@@ -30,7 +30,7 @@
 * [Gyll-ene Tider](#gyll)
 * [Trappstege](#trappstege)
 * [Varm Whisky](#varm-whisky)
-
+* [End of Days](#end-of-days)
 ---
 <a name="bees_knees"></a>
 ## Bee´s Knee´s x2
@@ -401,3 +401,18 @@ Blanda kryddorna med whiskyn, citron och honung.
 Låt gärna allt dra i ett par minuter.  
 Tillsätt kokande vatten. Rör om och njut. 
 (Krydorna kan ligga kvar eller tas ur vid servering.)
+
+
+<a name="end-of-days"></a>
+## End of days
+Glas : Cocktailglas
+
+|Type|mängd|info|
+|----|-----|----|
+|Mezcal|4 cl|Tequil går också|
+|Aperol|2 cl||
+|limejuice|1 cl||
+|Cayenne Pepper|½ tsp||
+|Flingsalt|en nypa||
+
+Skakas i en shaker. Filtrera ner i ett glas med is. Garnera gärna med en chili.
