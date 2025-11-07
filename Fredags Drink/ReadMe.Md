@@ -409,7 +409,7 @@ Glas : Cocktailglas
 
 |Type|mängd|info|
 |----|-----|----|
-|Mezcal|4 cl|Tequil går också|
+|Mezcal|4 cl|Tequila går också|
 |Aperol|2 cl||
 |limejuice|1 cl||
 |Cayenne Pepper|½ tsp||
